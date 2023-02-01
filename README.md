@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoborba25&count_private=true&show_icons=true&theme=radical)](https://github.com/diegoborba25/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/diegoborba25/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoborba25&count_private=true&show_icons=true&theme=radical)](https://github.com/diegoborba25?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&&langs_count=16&show_icons=true&theme=radical)](https://github.com/diegoborba25?tab=repositories)
 
 ## My name is Diego !
 - 👨 I´m 18 years old.
@@ -35,8 +35,6 @@
 <a href="https://discord.js.org/#/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40"/></a>
 <a id="contact"  href="https://www.npmjs.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
 </p>
-
-<br>
 
 ## 🪢 Connect with me:
 <div>
