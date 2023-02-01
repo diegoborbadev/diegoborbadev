@@ -11,8 +11,6 @@
 - 💬 Ask me about Home Automation
 - ⚡ Fun fact: Even though I spend most of my time coding, I still have 400 hours of The Witcher 3 on Steam 
 
-<br>
-
 ## 🧑‍💻 Languages and Tools
 <p align="left">
 <a href="https://docs.oracle.com/en/java/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/></a>
@@ -29,8 +27,6 @@
 </p>
 
 <!-- vscode, github, sublime, eclipse -->
-
-<br>
 
 ## 🌱 Learning
 <p align="left">
