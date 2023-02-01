@@ -1,5 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoborba25&count_private=true&show_icons=true&theme=radical)](https://github.com/diegoborba25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/diegoborba25/github-readme-stats)
+
 ## My name is Diego !
 - 👨 I´m 18 years old.
 - 🌱 I’m currently learning Js and Python (used for home automation)
