@@ -5,7 +5,6 @@
 
 ## My name is Diego!
 - 👨 I´m 18 years old.
-- 🌱 I’m currently learning Js and Python (used for home automation)
 - 👯 I’m looking to collaborate with other devs to improve together
 - 📫 How to reach me: click <a href="#contact">here</a>
 - 💬 Ask me about Home Automation
