@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoborba25&count_private=true&show_icons=true&theme=radical)](https://github.com/diegoborba25?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&&langs_count=16&show_icons=true&theme=radical)](https://github.com/diegoborba25?tab=repositories)
 
-## My name is Diego !
+## My name is Diego!
 - 👨 I´m 18 years old.
 - 🌱 I’m currently learning Js and Python (used for home automation)
 - 👯 I’m looking to collaborate with other devs to improve together
@@ -11,7 +11,7 @@
 - 💬 Ask me about Home Automation
 - ⚡ Fun fact: Even though I spend most of my time coding, I still have 400 hours of The Witcher 3 on Steam 
 
-## 🧑‍💻 Languages and Tools
+## 🧑‍💻 Languages and Tools:
 <p align="left">
 <a href="https://docs.oracle.com/en/java/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/></a>
 <a href="https://www.python.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/></a>
@@ -28,7 +28,7 @@
 
 <!-- vscode, github, sublime, eclipse -->
 
-## 🌱 Learning
+## 🌱 Learning:
 <p align="left">
 <a href="https://www.javascript.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/></a>
 <a href="https://nodejs.org/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/></a>
