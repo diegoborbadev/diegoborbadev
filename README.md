@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/diegoborba25?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=10&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=10&theme=radical"/>
   </a>
 <div>
 
