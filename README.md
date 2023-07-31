@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate with other devs to improve together
 - 📫 How to reach me: click <a href="#contact">here</a>
 - 💬 Ask me about Home Automation
-- ⚡ Fun fact: Even though I spend most of my time coding, I still have 400 hours of The Witcher 3 on Steam 
+- ⚡ Fun fact: Even though I spend most of my time coding, I still have 408 hours of The Witcher 3 on Steam 
 
 ## 🧑‍💻 Languages and Tools:
 <p align="left">
