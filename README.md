@@ -54,7 +54,7 @@
 ## 🪢 Networks:
 <div>
 <p align="left">
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a> 
+<a href="https://www.linkedin.com/in/diegoborba25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a> 
 <a href="https://s.team/p/gffg-bnhh/WCDRPVNP" target="_blank"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>   
 <a href = "https://stackoverflow.com/users/21144042/diego-borba" target="_blank"><img src="https://img.shields.io/badge/Stack overflow-ff8f00?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a> 
 
