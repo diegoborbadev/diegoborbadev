@@ -22,7 +22,7 @@
 ## My name is Diego!
 - 👨 I´m 19 years old.
 - 👯 I’m looking to collaborate with other devs to improve together
-- 📫 How to reach me: click <a href="#contact">here</a>
+- 📫 How to reach me: click <a href="https://diegoborba.dev">here</a>
 - 💬 Ask me about Home Automation
 - ⚡ Fun fact: Even though I spend most of my time coding, I still have 408 hours of The Witcher 3 on Steam 
 
@@ -50,16 +50,6 @@
 <a href="https://discord.js.org/#/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40"/></a>
 <a id="contact"  href="https://www.npmjs.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
 </p>
-
-## 🪢 Networks:
-<div>
-<p align="left">
-<a href="https://www.linkedin.com/in/diegoborba25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a> 
-<a href="https://s.team/p/gffg-bnhh/WCDRPVNP" target="_blank"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>   
-<a href = "https://stackoverflow.com/users/21144042/diego-borba" target="_blank"><img src="https://img.shields.io/badge/Stack overflow-ff8f00?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a> 
-
-</p>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg">
