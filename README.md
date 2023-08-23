@@ -59,6 +59,10 @@
   <a href="https://docs.oracle.com/en/java/">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
+  <!-- Maven -->
+  <a href="https://maven.apache.org">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+  </a>
   <!-- Python -->
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -75,6 +79,7 @@
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
+  <br>
   <!-- Git -->
   <a href="https://git-scm.com">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -83,6 +88,14 @@
   <!-- <a href="https://filezilla-project.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg"/>
   </a> -->
+  <!-- GitHub -->
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- GitLab  -->
+  <a href="https://gitlab.com">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
   <!-- Jira -->
   <a href="https://www.atlassian.com/br/software/jira">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
