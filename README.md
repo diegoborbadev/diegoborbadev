@@ -42,7 +42,6 @@
         <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
       </picture>
     </div>
-    <br>
     <!-- GitHub Readme Streak Stats -->
     <p align="center">
     <picture align="center">
