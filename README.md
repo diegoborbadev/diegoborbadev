@@ -1,4 +1,6 @@
-# 👋 Hello! Welcome to my Github profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&vCenter=true&width=435&lines=Diego+Borba;Java+Software+Developer;">
+</p>
 
 <div>
   <a href="https://github.com/diegoborba25?tab=repositories">
