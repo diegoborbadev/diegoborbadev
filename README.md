@@ -42,7 +42,7 @@
     </picture>
     <br>
     <!-- GitHub Readme Streak Stats -->
-    <p style="padding-left: 20%">
+    <p padding-left="20%">
       <picture>
         <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
         <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
