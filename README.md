@@ -42,13 +42,13 @@
     </picture>
     <br>
     <!-- GitHub Readme Streak Stats -->
-    <p align="center">
-    <picture align="center">
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
-      <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
-    </picture>
-    </p>
+    <div style="text-align: center;">
+      <picture style="display: inline-block;">
+        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
+        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
+        <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
+      </picture>
+    </div>
   </a>
 <div>
 
