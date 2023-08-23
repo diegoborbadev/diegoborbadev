@@ -11,16 +11,16 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <!-- Stack Overflow  -->
-  <a href = "https://stackoverflow.com/users/21144042/diego-borba" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about.me&logoColor=white" target="_blank">
+  <!-- My Site  -->
+  <a href = "https://diegoborba.dev">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about.me&logoColor=white">
   </a> 
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <!-- Buy Me a Coffe -->
-  <a href="https://www.buymeacoffee.com/diegoborba25" target="_blank">
+  <a href="https://www.buymeacoffee.com/diegoborba25">
     <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>
