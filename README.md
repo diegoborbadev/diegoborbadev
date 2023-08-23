@@ -1,7 +1,11 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=2f80ed">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E"/>
+    </picture>
   </a>
 </p>
 
@@ -23,20 +27,18 @@
 
 <div>
   <a href="https://github.com/diegoborba25?tab=repositories">
-
-  <!-- Github Stats -->
-  <picture>
-    <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
-    <source height="190em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-    <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-  </picture>
-
-  <!-- Top Langs -->
-  <picture>
-    <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
-    <source height="190em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
-    <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
-  </picture>
+    <!-- Github Stats -->
+    <picture>
+      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
+      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
+      <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
+    </picture>
+    <!-- Top Langs -->
+    <picture>
+      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
+      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+      <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+    </picture>
   </a>
 <div>
 
