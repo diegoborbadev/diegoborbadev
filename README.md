@@ -41,7 +41,7 @@
       <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
     </picture>
     <!-- GitHub Readme Streak Stats -->
-    <picture>
+    <picture align="center">
       <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
       <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
