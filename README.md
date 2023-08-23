@@ -13,7 +13,7 @@
 <p align="center">
   <!-- My Site  -->
   <a href = "https://diegoborba.dev">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about.me&logoColor=white">
+    <img src="https://img.shields.io/badge/-My Website-000000?style=for-the-badge&logo=about.me&logoColor=white">
   </a> 
   <!-- Linkedin -->
   <a href="https://www.linkedin.com">
