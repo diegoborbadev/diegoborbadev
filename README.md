@@ -40,6 +40,7 @@
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
       <img height="190em" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
     </picture>
+    <br>
     <!-- GitHub Readme Streak Stats -->
     <picture align="center">
       <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
