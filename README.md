@@ -42,6 +42,16 @@
   </a>
 <div>
 
+## 🏛 Community 
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/21144042/diego-borba">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=light">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark"/>
+  </picture>
+</a>
+
 ## 🧑‍💻 Languages and Tools:
 <p align="left">
 <a href="https://docs.oracle.com/en/java/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/></a>
