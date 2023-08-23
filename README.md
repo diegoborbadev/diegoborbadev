@@ -42,13 +42,13 @@
     </picture>
     <br>
     <!-- GitHub Readme Streak Stats -->
-    <p padding-left="20%">
+    <div style="padding-left: 20px;">
       <picture>
         <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
         <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
         <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
       </picture>
-      </p>
+    </div>
   </a>
 <div>
 
