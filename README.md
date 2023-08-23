@@ -1,9 +1,25 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E" />
+  </a>
 </p>
 
+<!-- Social badges section -->
+<p align="center">
+  <!-- Stack Overflow  -->
+  <a href = "https://stackoverflow.com/users/21144042/diego-borba" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=about.me&logoColor=white" target="_blank">
+  </a> 
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <!-- Buy Me a Coffe -->
+  <a href="https://www.buymeacoffee.com/diegoborba25" target="_blank">
+    <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>
+</p>
 
 <div>
   <a href="https://github.com/diegoborba25?tab=repositories">
@@ -23,13 +39,6 @@
   </picture>
   </a>
 <div>
-
-## My name is Diego!
-- 👨 I´m 19 years old.
-- 👯 I’m looking to collaborate with other devs to improve together
-- 📫 How to reach me: click <a href="https://diegoborba.dev">here</a>
-- 💬 Ask me about Home Automation
-- ⚡ Fun fact: Even though I spend most of my time coding, I still have 408 hours of The Witcher 3 on Steam 
 
 ## 🧑‍💻 Languages and Tools:
 <p align="left">
@@ -56,6 +65,7 @@
 <a id="contact"  href="https://www.npmjs.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
+<!-- Github Snake Grid-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg">
