@@ -25,32 +25,34 @@
   </a>
 </p>
 
-## 📊 Github Stats
-<div>
-  <a href="https://github.com/diegoborba25?tab=repositories">
-    <!-- Github Stats -->
-    <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-      <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-    </picture>
-    <!-- Top Langs -->
-    <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
-      <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
-    </picture>
-    <br>
-    <!-- GitHub Readme Streak Stats -->
-    <div align="center">
+<details> 
+  <summary><h2>📊 Github Stats</h2></summary>
+  <div>
+    <a href="https://github.com/diegoborba25?tab=repositories">
+      <!-- Github Stats -->
       <picture>
-        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
-        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
-        <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
+        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
+        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
+        <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
       </picture>
-    </div>
-  </a>
-<div>
+      <!-- Top Langs -->
+      <picture>
+        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
+        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+        <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+      </picture>
+      <br>
+      <!-- GitHub Readme Streak Stats -->
+      <div align="center">
+        <picture>
+          <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
+          <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
+          <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
+        </picture>
+      </div>
+    </a>
+  <div>
+</details>
 
 ## 🏛 Community 
 <!-- Stack Overflow -->
