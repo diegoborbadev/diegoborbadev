@@ -37,9 +37,9 @@
       </picture>
       <!-- Top Langs -->
       <picture>
-        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
-        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
-        <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
+        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
+        <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
       </picture>
       <br>
       <!-- GitHub Readme Streak Stats -->
