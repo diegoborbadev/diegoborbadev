@@ -32,13 +32,13 @@
     <picture>
       <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-      <img alt="Github Stats" height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
+      <img alt="Github Stats" height="190em" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
     </picture>
     <!-- Top Langs -->
     <picture>
       <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
-      <img alt="Github Top Langs" height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
+      <img alt="Github Top Langs" height="190em" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
     </picture>
   </a>
 <div>
@@ -49,7 +49,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=light">
-    <img alt="Stack Overflow Card" src="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark"/>
+    <img alt="Stack Overflow Card" src="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=light"/>
   </picture>
 </a>
 
