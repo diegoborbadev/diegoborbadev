@@ -141,14 +141,16 @@
   </a>
 </p>
 
----
+##
 
 <!-- Github Snake Grid-->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
+
+[![Snake Svg](https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg)](https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark)
 
 ---
 <picture>
