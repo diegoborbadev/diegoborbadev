@@ -32,13 +32,13 @@
     <picture>
       <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-      <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
+      <img alt="Github Stats" height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
     </picture>
     <!-- Top Langs -->
     <picture>
       <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
-      <img height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
+      <img alt="Github Top Langs" height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
     </picture>
     <br>
     <!-- GitHub Readme Streak Stats -->
@@ -46,7 +46,7 @@
       <picture>
         <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
         <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
-        <img height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
+        <img alt="GitHub Readme Streak Stats" height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
       </picture>
     </div>
   </a>
@@ -58,7 +58,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=light">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark"/>
+    <img alt="Stack Overflow Card" src="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark"/>
   </picture>
 </a>
 
@@ -66,19 +66,11 @@
 <p align="left">
   <!-- Java -->
   <a href="https://docs.oracle.com/en/java/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  </a>
-  <!-- Maven -->
-  <a href="https://maven.apache.org">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-e92d2b?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/en/2.2.x/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   </a>
   <!-- HTML -->
   <a href="https://www.w3.org/html/">
@@ -88,22 +80,22 @@
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-  <br>
-  <!-- Git -->
-  <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  <!-- FileZilla -->
-  <!-- <a href="https://filezilla-project.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg"/>
-  </a> -->
-  <!-- GitHub -->
+    <!-- GitHub -->
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- GitLab  -->
+    <!-- GitLab  -->
   <a href="https://gitlab.com">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gitlab-e24329.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <br>
+    <!-- Maven -->
+  <a href="https://maven.apache.org">
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+  </a>
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   </a>
   <!-- Jira -->
   <a href="https://www.atlassian.com/br/software/jira">
@@ -113,9 +105,17 @@
   <a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-    <!-- SQLServer -->
+      <!-- Git -->
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <!-- FileZilla -->
+  <!-- <a href="https://filezilla-project.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg"/>
+  </a> -->
+        <!-- SQLServer -->
   <a href="https://www.microsoft.com/en/sql-server?rtc=1">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Srv-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
 </p>
 
@@ -142,13 +142,12 @@
 </p>
 
 ## 🐍 Snake
-
 <!-- Github Snake Grid-->
 <a href="https://github.com/Platane/snk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg"/>
   </picture>
 </a>
 
