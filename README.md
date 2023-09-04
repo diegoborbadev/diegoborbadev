@@ -40,15 +40,6 @@
       <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
       <img alt="Github Top Langs" height="190em" alt="github stats" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
     </picture>
-    <br>
-    <!-- GitHub Readme Streak Stats -->
-    <div align="center">
-      <picture>
-        <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
-        <source height="190em" media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DiegoBorba25">
-        <img alt="GitHub Readme Streak Stats" height="190em" alt="github stats" src="https://streak-stats.demolab.com/?user=DiegoBorba25&theme=radical">
-      </picture>
-    </div>
   </a>
 <div>
 
@@ -115,7 +106,7 @@
   </a> -->
         <!-- SQLServer -->
   <a href="https://www.microsoft.com/en/sql-server?rtc=1">
-    <img src="https://img.shields.io/badge/SQL%20Srv-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
 </p>
 
