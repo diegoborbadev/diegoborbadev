@@ -136,13 +136,13 @@
   <a href="https://www.postgresql.org">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
-  <!-- Vercel -->
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
   <!-- Github Pages -->
   <a href="https://pages.github.com">
     <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   </p>
 
@@ -154,7 +154,7 @@
   </a>
   <!-- GitHub -->
   <a href="https://github.com">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <!-- GitLab  -->
   <a href="https://gitlab.com">
@@ -164,13 +164,21 @@
   <a href="https://www.atlassian.com/br/software/jira">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   </a>
+  <!-- DBeaver -->
+  <a href="https://dbeaver.io/download/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?style=for-the-badge&logo=dbeaver-mono&logoColor=white"/>
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  </a>
+  <!-- VSCode -->
+  <a href="https://code.visualstudio.com">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
   <!-- Jenkins -->
   <a href="https://www.jenkins.io">
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  </a>
-  <!-- Insomnia -->
-  <a href="https://insomnia.rest/download">
-    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
   </a>
   <!-- Trello -->
   <a href="https://insomnia.rest/download">
@@ -187,10 +195,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg"/>
   </picture>
 </a>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=diegoborba25&label=Profile%20Views&color=12&icon=0&pretty=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://visitcount.itsvg.in/api?id=diegoborba25&label=Profile%20Views&color=1&icon=0&pretty=true">
-  <img src="https://visitcount.itsvg.in/api?id=diegoborba25&label=Profile%20Views&color=1&icon=0&pretty=true"/>
-</picture>
