@@ -13,7 +13,7 @@
 <p align="center">
   <!-- My Site  -->
   <a href = "https://diegoborba.dev">
-    <img src="https://img.shields.io/badge/-My Website-000000?style=for-the-badge&logo=about.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
   </a> 
   <!-- Linkedin -->
   <a href="https://www.linkedin.com">
@@ -53,15 +53,24 @@
   </picture>
 </a>
 
-## 🧑‍💻 Languages and Tools:
-<p align="left">
+## 🌟 Favorites
+  ### 🧑‍💻 Languages:
+  <p align="left">
   <!-- Java -->
   <a href="https://docs.oracle.com/en/java/">
-    <img src="https://img.shields.io/badge/Java-e92d2b?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src=" https://custom-icon-badges.demolab.com/badge/Java-e92d2b.svg?style=for-the-badge&logo=java&logoColor=white "/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://www.javascript.com">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
+  <!-- MarkDown -->
+  <a href="https://www.markdownguide.org">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
   <!-- HTML -->
   <a href="https://www.w3.org/html/">
@@ -71,52 +80,29 @@
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-    <!-- GitHub -->
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-    <!-- GitLab  -->
-  <a href="https://gitlab.com">
-    <img src="https://img.shields.io/badge/gitlab-e24329.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
-  <br>
-    <!-- Maven -->
+  </p>
+
+  ### 📚 Frameworks and Libraries:
+  <p align="left">
+  <!-- Maven -->
   <a href="https://maven.apache.org">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+  </a>
+  <!-- Spring -->
+  <a href="https://spring.io">
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  </a>
+  <!-- Angular -->
+  <a href="https://angular.io">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/en/2.2.x/">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  </a>
-  <!-- Jira -->
-  <a href="https://www.atlassian.com/br/software/jira">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  </a>
-  <!-- Mysql -->
-  <a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-      <!-- Git -->
-  <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  <!-- FileZilla -->
-  <!-- <a href="https://filezilla-project.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg"/>
-  </a> -->
-        <!-- SQLServer -->
-  <a href="https://www.microsoft.com/en/sql-server?rtc=1">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
-</p>
-
-<!-- vscode, github, sublime, eclipse -->
-
-## 🌱 Learning:
-<p align="left">
-  <!-- JavaScript -->
-  <a href="https://www.javascript.com">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/en/">
@@ -130,7 +116,67 @@
   <a href="https://www.npmjs.com">
     <img src="https://img.shields.io/badge/Npm-red?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
-</p>
+  </p>
+
+  ### 💾 Databases and Hosting:
+  <p align="left">
+  <!-- Mysql -->
+  <a href="https://www.mysql.com">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <!-- MariaDB -->
+  <a href="https://mariadb.org">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  </a>
+  <!-- SQLServer -->
+  <a href="https://www.microsoft.com/en/sql-server?rtc=1">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  </a>
+  <!-- Postgres -->
+  <a href="https://www.postgresql.org">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <!-- Github Pages -->
+  <a href="https://pages.github.com">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  </p>
+
+  ### 🛠️  Software and Tools:
+  <p align="left">
+  <!-- Git -->
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- GitLab  -->
+  <a href="https://gitlab.com">
+    <img src="https://img.shields.io/badge/gitlab-e24329.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/br/software/jira">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  </a>
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  </a>
+  <!-- Insomnia -->
+  <a href="https://insomnia.rest/download">
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+  </a>
+  <!-- Trello -->
+  <a href="https://insomnia.rest/download">
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  </a>
+  </p>
 
 ## 🐍 Snake
 <!-- Github Snake Grid-->
