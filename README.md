@@ -47,7 +47,7 @@
 <!-- Stack Overflow -->
 <a href="https://stackoverflow.com/users/21144042/diego-borba">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stack-exchange.vercel.app/?userID=21144042&layout=compact&theme=dark&site=stackoverflow">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=light">
     <img alt="Stack Overflow Card" src="https://github-readme-stackoverflow.vercel.app/?userID=21144042&layout=compact&theme=light"/>
   </picture>
