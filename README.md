@@ -36,9 +36,9 @@
     </picture>
     <!-- Top Langs -->
     <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
-      <img alt="Github Top Langs" height="190em" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&exclude_repo=diegoborba25-github-readme-stats,diego-borba-dev,servidor-dig-din-bot">
+      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
+      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+      <img alt="Github Top Langs" height="190em" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
     </picture>
   </a>
 <div>
