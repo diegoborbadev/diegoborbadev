@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG -->
-  <a href="https://github.com/diegoborba25?tab=repositories">
+  <a href="https://github.com/diegoborbadev?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=2f80ed">
@@ -20,25 +20,25 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <!-- Buy Me a Coffe -->
-  <a href="https://www.buymeacoffee.com/diegoborba25">
+  <a href="https://www.buymeacoffee.com/diegoborbadev">
     <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>
 
 ## 📊 Github Stats
 <div>
-  <a href="https://github.com/diegoborba25">
+  <a href="https://github.com/diegoborbadev">
     <!-- Github Stats -->
     <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
-      <img alt="Github Stats" height="190em" src="https://diegoborba25-github-readme-stats.vercel.app/api?username=diegoborba25&include_all_commits=true&count_private=true&show_icons=true">
+      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
+      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true">
+      <img alt="Github Stats" height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true">
     </picture>
     <!-- Top Langs -->
     <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
-      <img alt="Github Top Langs" height="190em" src="https://diegoborba25-github-readme-stats.vercel.app/api/top-langs/?username=diegoborba25&layout=compact&langs_count=8">
+      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8&theme=radical">
+      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8">
+      <img alt="Github Top Langs" height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8">
     </picture>
   </a>
 <div>
@@ -190,8 +190,8 @@
 <!-- Github Snake Grid-->
 <a href="https://github.com/Platane/snk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborba25/diegoborba25/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegoborbadev/diegoborbadev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegoborbadev/diegoborbadev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/diegoborbadev/diegoborbadev/output/github-contribution-grid-snake.svg"/>
   </picture>
 </a>
