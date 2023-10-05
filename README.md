@@ -28,18 +28,8 @@
 ## 📊 Github Stats
 <div>
   <a href="https://github.com/diegoborbadev">
-    <!-- Github Stats -->
-    <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true">
-      <img alt="Github Stats" height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true">
-    </picture>
-    <!-- Top Langs -->
-    <picture>
-      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8&theme=radical">
-      <source height="190em" media="(prefers-color-scheme: light)" srcset="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8">
-      <img alt="Github Top Langs" height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8">
-    </picture>
+  <img height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+  <img height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8&theme=radical"/>
   </a>
 <div>
 
