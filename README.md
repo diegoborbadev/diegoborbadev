@@ -42,6 +42,14 @@
     <img alt="Stack Overflow Card" src="https://github-readme-stack-exchange.vercel.app/?userID=21144042&site=stackoverflow&layout=compact&theme=light"/>
   </picture>
 </a>
+<!-- Arqade -->
+<a href="https://gaming.stackexchange.com/users/306358/diego-borba">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stack-exchange.vercel.app/?userID=306358&site=arqade&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stack-exchange.vercel.app/?userID=306358&site=arqade&layout=compact&theme=light">
+    <img alt="Stack Overflow Card" src="https://github-readme-stack-exchange.vercel.app/?userID=306358&site=arqade&layout=compact&theme=light"/>
+  </picture>
+</a>
 
 ## 🌟 Favorites
   ### 🧑‍💻 Languages:
