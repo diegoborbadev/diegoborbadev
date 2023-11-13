@@ -56,7 +56,7 @@
   <p align="left">
   <!-- Java -->
   <a href="https://docs.oracle.com/en/java/">
-    <img src=" https://custom-icon-badges.demolab.com/badge/Java-e92d2b.svg?style=for-the-badge&logo=java&logoColor=white "/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Java-e92d2b.svg?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org">
