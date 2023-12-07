@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG -->
-  <a href="https://github.com/diegoborbadev?tab=repositories&q=&type=public&language=&sort=">
+  <a href="https://github.com/diegoborbadev?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=2f80ed">
@@ -27,7 +27,7 @@
 
 ## 📊 Github Stats
 <div>
-  <a href="https://github.com/diegoborbadev?tab=repositories&q=&type=public&language=&sort=">
+  <a href="https://github.com/diegoborbadev?tab=repositories">
   <img height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api?username=diegoborbadev&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
   <img height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=diegoborbadev&layout=compact&langs_count=8&theme=radical&exclude_repo=diegoborbadev-readme-stack-exchange,diegoborbadev-github-readme-stats"/>
   </a>
