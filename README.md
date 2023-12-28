@@ -2,9 +2,9 @@
   <!-- Typing SVG -->
   <a href="https://github.com/diegoborbadev?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=2f80ed">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&color=FE428E"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=FE428E">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=2f80ed">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=FE428E"/>
     </picture>
   </a>
 </p>
@@ -22,6 +22,10 @@
   <!-- Buy Me a Coffe -->
   <a href="https://www.buymeacoffee.com/diegoborbadev">
     <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>
+  <!-- Profile Views -->
+  <a href="https://www.buymeacoffee.com/diegoborbadev">
+    <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://komarev.com/ghpvc/?username=diegoborbadev&style=for-the-badge&color=FE428E">
   </a>
 </p>
 
@@ -169,6 +173,10 @@
   <!-- Postman -->
   <a href="https://www.postman.com">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  </a>
+  <!-- IntelliJ -->
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   </a>
   <!-- VSCode -->
   <a href="https://code.visualstudio.com">
