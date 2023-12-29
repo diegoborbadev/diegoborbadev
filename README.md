@@ -25,7 +25,7 @@
   </a>
   <!-- Profile Views -->
   <a href="https://www.buymeacoffee.com/diegoborbadev">
-    <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://komarev.com/ghpvc/?username=diegoborbadev&style=for-the-badge&color=FE428E">
+    <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=diegoborbadev&style=for-the-badge&color=FE428E">
   </a>
 </p>
 
@@ -187,7 +187,7 @@
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   </a>
   <!-- Trello -->
-  <a href="https://insomnia.rest/download">
+  <a href="https://trello.com/">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
   </a>
   </p>
