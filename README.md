@@ -2,9 +2,9 @@
   <!-- Typing SVG -->
   <a href="https://github.com/diegoborbadev?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=FE428E">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=2f80ed">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Software+Engineer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=FE428E"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Backend+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=FE428E">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Backend+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=2f80ed">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Diego+Borba;Java+Backend+Developer;Since+2020;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=FE428E"/>
     </picture>
   </a>
 </p>
