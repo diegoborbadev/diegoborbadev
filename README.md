@@ -193,7 +193,7 @@
   </p>
 
 ## 🎧 Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3142ovmg65c52yi2bjlojav3n7b4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3142ovmg65c52yi2bjlojav3n7b4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3142ovmg65c52yi2bjlojav3n7b4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3142ovmg65c52yi2bjlojav3n7b4&redirect=true)
 
 ## 🐍 Snake
 <!-- Github Snake Grid-->
