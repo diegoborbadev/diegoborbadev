@@ -23,10 +23,6 @@
   <a href="https://www.buymeacoffee.com/diegoborbadev">
     <img alt="Buy Me a Coffe" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
-  <!-- Profile Views -->
-  <a href="https://github.com/diegoborbadev?tab=repositories">
-    <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=diegoborbadev&style=for-the-badge&color=FE428E">
-  </a>
 </p>
 
 ## 📊 Github Stats
